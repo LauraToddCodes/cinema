@@ -4,7 +4,7 @@ import {Link} from "react-router-dom";
 
 function Title(){
     return(
-        <Link to="/">
+        <Link to="/cinema">
             <img src={TPTitle} alt="talking pictures logo" id="title"/>
         </Link>
     )
