@@ -1,0 +1,38 @@
+[
+    {   
+        "id": "film1",
+        "imgSrc": "/book/aboutKnivesOut.jpg",
+        "imgAlt": "Knives Out Image",
+        "filmTitle": "Knives Out",
+        "paragraphText": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quisque sagittis purus sit amet volutpat consequat. Ullamcorper malesuada proin libero nunc consequat interdum varius sit amet. Facilisis mauris sit amet massa vitae. Interdum velit euismod in pellentesque massa placerat duis ultricies lacus. Egestas purus viverra accumsan in nisl nisi scelerisque. Lorem ipsum dolor sit amet consectetur adipiscing. Blandit libero volutpat sed cras.",
+        "showings": [
+            {"date": "Monday 2nd December", "times": ["12:00", "15:00", "19:00"]},
+            {"date": "Tuesday 3rd December", "times": ["13:10", "16:30", "19:00", "21:00"]},
+            {"date": "Wednesday 4th December", "times": ["14:45", "19:15", "20:00", "21:30"]}
+        ]
+    },
+    {
+        "id": "film2",
+        "imgSrc": "/book/aboutJudyAndPunch.jpg",
+        "imgAlt": "Judy and Punch Image",
+        "filmTitle": "Judy and Punch",
+        "paragraphText": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quisque sagittis purus sit amet volutpat consequat. Ullamcorper malesuada proin libero nunc consequat interdum varius sit amet. Facilisis mauris sit amet massa vitae. Interdum velit euismod in pellentesque massa placerat duis ultricies lacus. Egestas purus viverra accumsan in nisl nisi scelerisque. Lorem ipsum dolor sit amet consectetur adipiscing. Blandit libero volutpat sed cras.",
+        "showings": [
+            {"date": "Monday 2nd December", "times": ["12:30", "16:00", "21:00"]},
+            {"date": "Tuesday 3rd December", "times": ["12:10", "15:30", "18:00", "20:00"]}
+        ]
+    },
+    {
+        "id": "film3",
+        "imgSrc": "/book/aboutHarriet.jpg",
+        "imgAlt": "Harriet Image",
+        "filmTitle": "Harriet",
+        "paragraphText": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quisque sagittis purus sit amet volutpat consequat. Ullamcorper malesuada proin libero nunc consequat interdum varius sit amet. Facilisis mauris sit amet massa vitae. Interdum velit euismod in pellentesque massa placerat duis ultricies lacus. Egestas purus viverra accumsan in nisl nisi scelerisque. Lorem ipsum dolor sit amet consectetur adipiscing. Blandit libero volutpat sed cras.",
+        "showings": [
+            {"date": "Monday 2nd December", "times" : ["11:30", "15:00", "22:00"]},
+            {"date": "Tuesday 3rd December", "times" : ["14:30", "16:30", "19:30", "21:00"]},
+            {"date": "Wednesday 4th December", "times" : ["12:30", "18:00", "19:10", "21:30"]}
+        ]
+    }
+]
+

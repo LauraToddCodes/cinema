@@ -1,0 +1,17 @@
+[
+    {
+        "id": "0",
+        "ticketType": "adult",
+        "price": 14.00
+    },
+    {
+        "id": "1",
+        "ticketType": "concession",
+        "price": 11.00
+    },
+    {
+        "id": "2",
+        "ticketType": "child",
+        "price": 8.00
+    }
+]
