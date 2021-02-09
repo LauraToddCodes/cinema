@@ -6,7 +6,9 @@ import seatInfo from "./components/booking/seatInfo.json";
 import { Link } from "react-router-dom";
 
 class ChooseSeats extends React.Component {
-
+    componentDidMount() {
+        window.scrollTo(0, 0)
+    }
 
     render(){
 

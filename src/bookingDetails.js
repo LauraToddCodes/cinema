@@ -5,6 +5,10 @@ import ticketPrices from "./prices.json";
 import { Link } from "react-router-dom";
 
 class BookingDetails extends React.Component {
+    componentDidMount() {
+        window.scrollTo(0, 0)
+    }
+    
     render(){
         return(
             <div>

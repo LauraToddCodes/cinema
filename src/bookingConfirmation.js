@@ -3,6 +3,10 @@ import { ListingsContext } from "./ListingsContext";
 import filmData from "./components/booking/filmTimesData.json";
 
 class BookingConfirmation extends React.Component {
+    componentDidMount() {
+        window.scrollTo(0, 0)
+    }
+    
     render() {
         return(
             <div>
