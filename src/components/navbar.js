@@ -42,7 +42,7 @@ class Navbar extends React.Component {
                 </div>
                 <div id="toggleMenu">
                     <div id="toggleMenuBtn" className={toggleBtnClass} onClick={this.handleClick}>
-                        <img id="burger" src={process.env.PUBLIC_URL + "./navbar/burger.png"} alt="open menu"/>
+                        <img id="burger" src={process.env.PUBLIC_URL + "/navbar/burger.png"} alt="open menu"/>
                     </div>
                     {this.state.isMenuOpen ? 
                         <ul id="toggleNavList">
