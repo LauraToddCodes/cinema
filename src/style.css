@@ -401,6 +401,11 @@ body {
     grid-gap: 10px;
     grid-template-columns: repeat(15, 1fr);
     grid-template-rows: repeat(9, 1fr);
+    margin-bottom: 40px;
+}
+
+#landscapeMode {
+    display: none;
 }
 
 .seatNumber {
@@ -519,6 +524,19 @@ body {
     color: black;
 }
 
+/* CONFIRMATION PAGE */
+
+#confirmationContainer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#confirmationImg {
+    width: 50%;
+    margin: 40px 0;
+}
+
 @media screen and (max-width: 1050px) {
     body {
         grid-template-columns: 3em 1fr 3em;
@@ -545,6 +563,22 @@ body {
     #gmap_canvas {
         width: 60%;
         height: 500px;
+    }
+
+    /* CHOOSE YOUR SEATS */
+    .singleSeat {
+        width: 30px;
+        height: 30px;
+    }
+
+    #screenLayout {
+        grid-gap: 9px;
+    }
+
+    /* BOOKING CONFIRMATION */
+
+    #confirmationImg{
+        width: 90%;
     }
 
 }
@@ -669,6 +703,23 @@ body {
 
     .ticketCalc {
         width: 100%;
+    }
+
+    /* CHOOSE SEATS PAGE */
+
+    #screenLayout {
+        display: none;
+    }
+
+    #landscapeMode {
+        display: block;
+    }
+
+    /* BOOKING CONFIRMATION */
+
+    #confirmationImg{
+        width: 100%;
+        margin: 10px 0;
     }
 
     /* CONTACT */
