@@ -1,91 +1,91 @@
 [
     {
         "id": "I13",
-        "className": "rowI seat13 seatCont",
+        "className": "rowI seat13",
         "imgSrc": "./book/freeSeat.png",
         "imgAlt": "I13",
         "seatNo": "13" 
     },
     {
         "id": "I12",
-        "className": "rowI seat12 seatCont",
+        "className": "rowI seat12",
         "imgSrc": "./book/freeSeat.png",
         "imgAlt": "I12",
         "seatNo": "12" 
     },
     {
         "id": "I11",
-        "className": "rowI seat11 seatCont",
+        "className": "rowI seat11",
         "imgSrc": "./book/freeSeat.png",
         "imgAlt": "I11",
         "seatNo": "11" 
     },
     {
         "id": "I10",
-        "className": "rowI seat10 seatCont",
+        "className": "rowI seat10",
         "imgSrc": "./book/freeSeat.png",
         "imgAlt": "I10",
         "seatNo": "10" 
     },
     {
         "id": "I9",
-        "className": "rowI seat9 seatCont",
+        "className": "rowI seat9",
         "imgSrc": "./book/freeSeat.png",
         "imgAlt": "I9",
         "seatNo": "9" 
     },
     {
         "id": "I8",
-        "className": "rowI seat8 seatCont",
+        "className": "rowI seat8",
         "imgSrc": "./book/freeSeat.png",
         "imgAlt": "I8",
         "seatNo": "8" 
     },
     {
         "id": "I7",
-        "className": "rowI seat7 seatCont",
+        "className": "rowI seat7",
         "imgSrc": "./book/freeSeat.png",
         "imgAlt": "I7",
         "seatNo": "7" 
     },
     {
         "id": "I6",
-        "className": "rowI seat6 seatCont",
+        "className": "rowI seat6",
         "imgSrc": "./book/freeSeat.png",
         "imgAlt": "I6",
         "seatNo": "6" 
     },
     {
         "id": "I5",
-        "className": "rowI seat5 seatCont",
+        "className": "rowI seat5",
         "imgSrc": "./book/freeSeat.png",
         "imgAlt": "I5",
         "seatNo": "5" 
     },
     {
         "id": "I4",
-        "className": "rowI seat4 seatCont",
+        "className": "rowI seat4",
         "imgSrc": "./book/freeSeat.png",
         "imgAlt": "I4",
         "seatNo": "4" 
     },
     {
         "id": "I3",
-        "className": "rowI seat3 seatCont",
+        "className": "rowI seat3",
         "imgSrc": "./book/freeSeat.png",
         "imgAlt": "I3",
         "seatNo": "3" 
     },
     {
         "id": "I2",
-        "className": "rowI seat2 seatCont",
+        "className": "rowI seat2",
         "imgSrc": "./book/freeSeat.png",
         "imgAlt": "I2",
         "seatNo": "2" 
     },
     {
         "id": "I1",
-        "className": "rowI seat1 seatCont",
+        "className": "rowI seat1",
         "imgSrc": "./book/freeSeat.png",
         "imgAlt": "I1",
         "seatNo": "1" 
@@ -95,91 +95,91 @@
     
     {
         "id": "H13",
-        "className": "rowH seat13 seatCont",
+        "className": "rowH seat13",
         "imgSrc": "./book/freeSeat.png",
         "imgAlt": "H13",
         "seatNo": "13" 
     },
     {
         "id": "H12",
-        "className": "rowH seat12 seatCont",
+        "className": "rowH seat12",
         "imgSrc": "./book/freeSeat.png",
         "imgAlt": "H12",
         "seatNo": "12" 
     },
     {
         "id": "H11",
-        "className": "rowH seat11 seatCont",
+        "className": "rowH seat11",
         "imgSrc": "./book/freeSeat.png",
         "imgAlt": "H11",
         "seatNo": "11" 
     },
     {
         "id": "H10",
-        "className": "rowH seat10 seatCont",
+        "className": "rowH seat10",
         "imgSrc": "./book/freeSeat.png",
         "imgAlt": "H10",
         "seatNo": "10" 
     },
     {
         "id": "H9",
-        "className": "rowH seat9 seatCont",
+        "className": "rowH seat9",
         "imgSrc": "./book/freeSeat.png",
         "imgAlt": "H9",
         "seatNo": "9" 
     },
     {
         "id": "H8",
-        "className": "rowH seat8 seatCont",
+        "className": "rowH seat8",
         "imgSrc": "./book/freeSeat.png",
         "imgAlt": "H8",
         "seatNo": "8" 
     },
     {
         "id": "H7",
-        "className": "rowH seat7 seatCont",
+        "className": "rowH seat7",
         "imgSrc": "./book/freeSeat.png",
         "imgAlt": "H7",
         "seatNo": "7" 
     },
     {
         "id": "H6",
-        "className": "rowH seat6 seatCont",
+        "className": "rowH seat6",
         "imgSrc": "./book/freeSeat.png",
         "imgAlt": "H6",
         "seatNo": "6" 
     },
     {
         "id": "H5",
-        "className": "rowH seat5 seatCont",
+        "className": "rowH seat5",
         "imgSrc": "./book/freeSeat.png",
         "imgAlt": "H5",
         "seatNo": "5" 
     },
     {
         "id": "H4",
-        "className": "rowH seat4 seatCont",
+        "className": "rowH seat4",
         "imgSrc": "./book/freeSeat.png",
         "imgAlt": "H4",
         "seatNo": "4" 
     },
     {
         "id": "H3",
-        "className": "rowH seat3 seatCont",
+        "className": "rowH seat3",
         "imgSrc": "./book/freeSeat.png",
         "imgAlt": "H3",
         "seatNo": "3" 
     },
     {
         "id": "H2",
-        "className": "rowH seat2 seatCont",
+        "className": "rowH seat2",
         "imgSrc": "./book/freeSeat.png",
         "imgAlt": "H2",
         "seatNo": "2" 
     },
     {
         "id": "H1",
-        "className": "rowH seat1 seatCont",
+        "className": "rowH seat1",
         "imgSrc": "./book/freeSeat.png",
         "imgAlt": "H1",
         "seatNo": "1" 
@@ -189,91 +189,91 @@
 
     {
         "id": "G13",
-        "className": "rowG seat13 seatCont",
+        "className": "rowG seat13",
         "imgSrc": "./book/freeSeat.png",
         "imgAlt": "G13",
         "seatNo": "13" 
     },
     {
         "id": "G12",
-        "className": "rowG seat12 seatCont",
+        "className": "rowG seat12",
         "imgSrc": "./book/freeSeat.png",
         "imgAlt": "G12",
         "seatNo": "12" 
     },
     {
         "id": "G11",
-        "className": "rowG seat11 seatCont",
+        "className": "rowG seat11",
         "imgSrc": "./book/freeSeat.png",
         "imgAlt": "G11",
         "seatNo": "11" 
     },
     {
         "id": "G10",
-        "className": "rowG seat10 seatCont",
+        "className": "rowG seat10",
         "imgSrc": "./book/freeSeat.png",
         "imgAlt": "G10",
         "seatNo": "10" 
     },
     {
         "id": "G9",
-        "className": "rowG seat9 seatCont",
+        "className": "rowG seat9",
         "imgSrc": "./book/freeSeat.png",
         "imgAlt": "G9",
         "seatNo": "9" 
     },
     {
         "id": "G8",
-        "className": "rowG seat8 seatCont",
+        "className": "rowG seat8",
         "imgSrc": "./book/freeSeat.png",
         "imgAlt": "G8",
         "seatNo": "8" 
     },
     {
         "id": "G7",
-        "className": "rowG seat7 seatCont",
+        "className": "rowG seat7",
         "imgSrc": "./book/freeSeat.png",
         "imgAlt": "G7",
         "seatNo": "7" 
     },
     {
         "id": "G6",
-        "className": "rowG seat6 seatCont",
+        "className": "rowG seat6",
         "imgSrc": "./book/freeSeat.png",
         "imgAlt": "G6",
         "seatNo": "6" 
     },
     {
         "id": "G5",
-        "className": "rowG seat5 seatCont",
+        "className": "rowG seat5",
         "imgSrc": "./book/freeSeat.png",
         "imgAlt": "G5",
         "seatNo": "5" 
     },
     {
         "id": "G4",
-        "className": "rowG seat4 seatCont",
+        "className": "rowG seat4",
         "imgSrc": "./book/freeSeat.png",
         "imgAlt": "G4",
         "seatNo": "4" 
     },
     {
         "id": "G3",
-        "className": "rowG seat3 seatCont",
+        "className": "rowG seat3",
         "imgSrc": "./book/freeSeat.png",
         "imgAlt": "G3",
         "seatNo": "3" 
     },
     {
         "id": "G2",
-        "className": "rowG seat2 seatCont",
+        "className": "rowG seat2",
         "imgSrc": "./book/freeSeat.png",
         "imgAlt": "G2",
         "seatNo": "2" 
     },
     {
         "id": "G1",
-        "className": "rowG seat1 seatCont",
+        "className": "rowG seat1",
         "imgSrc": "./book/freeSeat.png",
         "imgAlt": "G1",
         "seatNo": "1" 
@@ -283,91 +283,91 @@
 
     {
         "id": "F13",
-        "className": "rowF seat13 seatCont",
+        "className": "rowF seat13",
         "imgSrc": "./book/freeSeat.png",
         "imgAlt": "F13",
         "seatNo": "13" 
     },
     {
         "id": "F12",
-        "className": "rowF seat12 seatCont",
+        "className": "rowF seat12",
         "imgSrc": "./book/freeSeat.png",
         "imgAlt": "F12",
         "seatNo": "12" 
     },
     {
         "id": "F11",
-        "className": "rowF seat11 seatCont",
+        "className": "rowF seat11",
         "imgSrc": "./book/freeSeat.png",
         "imgAlt": "F11",
         "seatNo": "11" 
     },
     {
         "id": "F10",
-        "className": "rowF seat10 seatCont",
+        "className": "rowF seat10",
         "imgSrc": "./book/freeSeat.png",
         "imgAlt": "F10",
         "seatNo": "10" 
     },
     {
         "id": "F9",
-        "className": "rowF seat9 seatCont",
+        "className": "rowF seat9",
         "imgSrc": "./book/freeSeat.png",
         "imgAlt": "F9",
         "seatNo": "9" 
     },
     {
         "id": "F8",
-        "className": "rowF seat8 seatCont",
+        "className": "rowF seat8",
         "imgSrc": "./book/freeSeat.png",
         "imgAlt": "F8",
         "seatNo": "8" 
     },
     {
         "id": "F7",
-        "className": "rowF seat7 seatCont",
+        "className": "rowF seat7",
         "imgSrc": "./book/freeSeat.png",
         "imgAlt": "F7",
         "seatNo": "7" 
     },
     {
         "id": "F6",
-        "className": "rowF seat6 seatCont",
+        "className": "rowF seat6",
         "imgSrc": "./book/freeSeat.png",
         "imgAlt": "F6",
         "seatNo": "6" 
     },
     {
         "id": "F5",
-        "className": "rowF seat5 seatCont",
+        "className": "rowF seat5",
         "imgSrc": "./book/freeSeat.png",
         "imgAlt": "F5",
         "seatNo": "5" 
     },
     {
         "id": "F4",
-        "className": "rowF seat4 seatCont",
+        "className": "rowF seat4",
         "imgSrc": "./book/freeSeat.png",
         "imgAlt": "F4",
         "seatNo": "4" 
     },
     {
         "id": "F3",
-        "className": "rowF seat3 seatCont",
+        "className": "rowF seat3",
         "imgSrc": "./book/freeSeat.png",
         "imgAlt": "F3",
         "seatNo": "3" 
     },
     {
         "id": "F2",
-        "className": "rowF seat2 seatCont",
+        "className": "rowF seat2",
         "imgSrc": "./book/freeSeat.png",
         "imgAlt": "F2",
         "seatNo": "2" 
     },
     {
         "id": "F1",
-        "className": "rowF seat1 seatCont",
+        "className": "rowF seat1",
         "imgSrc": "./book/freeSeat.png",
         "imgAlt": "F1",
         "seatNo": "1" 
@@ -377,91 +377,91 @@
 
     {
         "id": "E13",
-        "className": "rowE seat13 seatCont",
+        "className": "rowE seat13",
         "imgSrc": "./book/freeSeat.png",
         "imgAlt": "E13",
         "seatNo": "13" 
     },
     {
         "id": "E12",
-        "className": "rowE seat12 seatCont",
+        "className": "rowE seat12",
         "imgSrc": "./book/freeSeat.png",
         "imgAlt": "E12",
         "seatNo": "12" 
     },
     {
         "id": "E11",
-        "className": "rowE seat11 seatCont",
+        "className": "rowE seat11",
         "imgSrc": "./book/freeSeat.png",
         "imgAlt": "E11",
         "seatNo": "11" 
     },
     {
         "id": "E10",
-        "className": "rowE seat10 seatCont",
+        "className": "rowE seat10",
         "imgSrc": "./book/freeSeat.png",
         "imgAlt": "E10",
         "seatNo": "10" 
     },
     {
         "id": "E9",
-        "className": "rowE seat9 seatCont",
+        "className": "rowE seat9",
         "imgSrc": "./book/freeSeat.png",
         "imgAlt": "E9",
         "seatNo": "9" 
     },
     {
         "id": "E8",
-        "className": "rowE seat8 seatCont",
+        "className": "rowE seat8",
         "imgSrc": "./book/freeSeat.png",
         "imgAlt": "E8",
         "seatNo": "8" 
     },
     {
         "id": "E7",
-        "className": "rowE seat7 seatCont",
+        "className": "rowE seat7",
         "imgSrc": "./book/freeSeat.png",
         "imgAlt": "E7",
         "seatNo": "7" 
     },
     {
         "id": "E6",
-        "className": "rowE seat6 seatCont",
+        "className": "rowE seat6",
         "imgSrc": "./book/freeSeat.png",
         "imgAlt": "E6",
         "seatNo": "6" 
     },
     {
         "id": "E5",
-        "className": "rowE seat5 seatCont",
+        "className": "rowE seat5",
         "imgSrc": "./book/freeSeat.png",
         "imgAlt": "E5",
         "seatNo": "5" 
     },
     {
         "id": "E4",
-        "className": "rowE seat4 seatCont",
+        "className": "rowE seat4",
         "imgSrc": "./book/freeSeat.png",
         "imgAlt": "E4",
         "seatNo": "4" 
     },
     {
         "id": "E3",
-        "className": "rowE seat3 seatCont",
+        "className": "rowE seat3",
         "imgSrc": "./book/freeSeat.png",
         "imgAlt": "E3",
         "seatNo": "3" 
     },
     {
         "id": "E2",
-        "className": "rowE seat2 seatCont",
+        "className": "rowE seat2",
         "imgSrc": "./book/freeSeat.png",
         "imgAlt": "E2",
         "seatNo": "2" 
     },
     {
         "id": "E1",
-        "className": "rowE seat1 seatCont",
+        "className": "rowE seat1",
         "imgSrc": "./book/freeSeat.png",
         "imgAlt": "E1",
         "seatNo": "1" 
@@ -471,91 +471,91 @@
 
     {
         "id": "D13",
-        "className": "rowD seat13 seatCont",
+        "className": "rowD seat13",
         "imgSrc": "./book/freeSeat.png",
         "imgAlt": "D13",
         "seatNo": "13" 
     },
     {
         "id": "D12",
-        "className": "rowD seat12 seatCont",
+        "className": "rowD seat12",
         "imgSrc": "./book/freeSeat.png",
         "imgAlt": "D12",
         "seatNo": "12" 
     },
     {
         "id": "D11",
-        "className": "rowD seat11 seatCont",
+        "className": "rowD seat11",
         "imgSrc": "./book/freeSeat.png",
         "imgAlt": "D11",
         "seatNo": "11" 
     },
     {
         "id": "D10",
-        "className": "rowD seat10 seatCont",
+        "className": "rowD seat10",
         "imgSrc": "./book/freeSeat.png",
         "imgAlt": "D10",
         "seatNo": "10" 
     },
     {
         "id": "D9",
-        "className": "rowD seat9 seatCont",
+        "className": "rowD seat9",
         "imgSrc": "./book/freeSeat.png",
         "imgAlt": "D9",
         "seatNo": "9" 
     },
     {
         "id": "D8",
-        "className": "rowD seat8 seatCont",
+        "className": "rowD seat8",
         "imgSrc": "./book/freeSeat.png",
         "imgAlt": "D8",
         "seatNo": "8" 
     },
     {
         "id": "D7",
-        "className": "rowD seat7 seatCont",
+        "className": "rowD seat7",
         "imgSrc": "./book/freeSeat.png",
         "imgAlt": "D7",
         "seatNo": "7" 
     },
     {
         "id": "D6",
-        "className": "rowD seat6 seatCont",
+        "className": "rowD seat6",
         "imgSrc": "./book/freeSeat.png",
         "imgAlt": "D6",
         "seatNo": "6" 
     },
     {
         "id": "D5",
-        "className": "rowD seat5 seatCont",
+        "className": "rowD seat5",
         "imgSrc": "./book/freeSeat.png",
         "imgAlt": "D5",
         "seatNo": "5" 
     },
     {
         "id": "D4",
-        "className": "rowD seat4 seatCont",
+        "className": "rowD seat4",
         "imgSrc": "./book/freeSeat.png",
         "imgAlt": "D4",
         "seatNo": "4" 
     },
     {
         "id": "D3",
-        "className": "rowD seat3 seatCont",
+        "className": "rowD seat3",
         "imgSrc": "./book/freeSeat.png",
         "imgAlt": "D3",
         "seatNo": "3" 
     },
     {
         "id": "D2",
-        "className": "rowD seat2 seatCont",
+        "className": "rowD seat2",
         "imgSrc": "./book/freeSeat.png",
         "imgAlt": "D2",
         "seatNo": "2" 
     },
     {
         "id": "D1",
-        "className": "rowD seat1 seatCont",
+        "className": "rowD seat1",
         "imgSrc": "./book/freeSeat.png",
         "imgAlt": "D1",
         "seatNo": "1" 
@@ -565,91 +565,91 @@
 
     {
         "id": "C13",
-        "className": "rowC seat13 seatCont",
+        "className": "rowC seat13",
         "imgSrc": "./book/freeSeat.png",
         "imgAlt": "C13",
         "seatNo": "13" 
     },
     {
         "id": "C12",
-        "className": "rowC seat12 seatCont",
+        "className": "rowC seat12",
         "imgSrc": "./book/freeSeat.png",
         "imgAlt": "C12",
         "seatNo": "12" 
     },
     {
         "id": "C11",
-        "className": "rowC seat11 seatCont",
+        "className": "rowC seat11",
         "imgSrc": "./book/freeSeat.png",
         "imgAlt": "C11",
         "seatNo": "11" 
     },
     {
         "id": "C10",
-        "className": "rowC seat10 seatCont",
+        "className": "rowC seat10",
         "imgSrc": "./book/freeSeat.png",
         "imgAlt": "C10",
         "seatNo": "10" 
     },
     {
         "id": "C9",
-        "className": "rowC seat9 seatCont",
+        "className": "rowC seat9",
         "imgSrc": "./book/freeSeat.png",
         "imgAlt": "C9",
         "seatNo": "9" 
     },
     {
         "id": "C8",
-        "className": "rowC seat8 seatCont",
+        "className": "rowC seat8",
         "imgSrc": "./book/freeSeat.png",
         "imgAlt": "C8",
         "seatNo": "8" 
     },
     {
         "id": "C7",
-        "className": "rowC seat7 seatCont",
+        "className": "rowC seat7",
         "imgSrc": "./book/freeSeat.png",
         "imgAlt": "C7",
         "seatNo": "7" 
     },
     {
         "id": "C6",
-        "className": "rowC seat6 seatCont",
+        "className": "rowC seat6",
         "imgSrc": "./book/freeSeat.png",
         "imgAlt": "C6",
         "seatNo": "6" 
     },
     {
         "id": "C5",
-        "className": "rowC seat5 seatCont",
+        "className": "rowC seat5",
         "imgSrc": "./book/freeSeat.png",
         "imgAlt": "C5",
         "seatNo": "5" 
     },
     {
         "id": "C4",
-        "className": "rowC seat4 seatCont",
+        "className": "rowC seat4",
         "imgSrc": "./book/freeSeat.png",
         "imgAlt": "C4",
         "seatNo": "4" 
     },
     {
         "id": "C3",
-        "className": "rowC seat3 seatCont",
+        "className": "rowC seat3",
         "imgSrc": "./book/freeSeat.png",
         "imgAlt": "C3",
         "seatNo": "3" 
     },
     {
         "id": "C2",
-        "className": "rowC seat2 seatCont",
+        "className": "rowC seat2",
         "imgSrc": "./book/freeSeat.png",
         "imgAlt": "C2",
         "seatNo": "2" 
     },
     {
         "id": "C1",
-        "className": "rowC seat1 seatCont",
+        "className": "rowC seat1",
         "imgSrc": "./book/freeSeat.png",
         "imgAlt": "C1",
         "seatNo": "1" 
@@ -659,91 +659,91 @@
 
     {
         "id": "B13",
-        "className": "rowB seat13 seatCont",
+        "className": "rowB seat13",
         "imgSrc": "./book/freeSeat.png",
         "imgAlt": "B13",
         "seatNo": "13" 
     },
     {
         "id": "B12",
-        "className": "rowB seat12 seatCont",
+        "className": "rowB seat12",
         "imgSrc": "./book/freeSeat.png",
         "imgAlt": "B12",
         "seatNo": "12" 
     },
     {
         "id": "B11",
-        "className": "rowB seat11 seatCont",
+        "className": "rowB seat11",
         "imgSrc": "./book/freeSeat.png",
         "imgAlt": "B11",
         "seatNo": "11" 
     },
     {
         "id": "B10",
-        "className": "rowB seat10 seatCont",
+        "className": "rowB seat10",
         "imgSrc": "./book/freeSeat.png",
         "imgAlt": "B10",
         "seatNo": "10" 
     },
     {
         "id": "B9",
-        "className": "rowB seat9 seatCont",
+        "className": "rowB seat9",
         "imgSrc": "./book/freeSeat.png",
         "imgAlt": "B9",
         "seatNo": "9" 
     },
     {
         "id": "B8",
-        "className": "rowB seat8 seatCont",
+        "className": "rowB seat8",
         "imgSrc": "./book/freeSeat.png",
         "imgAlt": "B8",
         "seatNo": "8" 
     },
     {
         "id": "B7",
-        "className": "rowB seat7 seatCont",
+        "className": "rowB seat7",
         "imgSrc": "./book/freeSeat.png",
         "imgAlt": "B7",
         "seatNo": "7" 
     },
     {
         "id": "B6",
-        "className": "rowB seat6 seatCont",
+        "className": "rowB seat6",
         "imgSrc": "./book/freeSeat.png",
         "imgAlt": "B6",
         "seatNo": "6" 
     },
     {
         "id": "B5",
-        "className": "rowB seat5 seatCont",
+        "className": "rowB seat5",
         "imgSrc": "./book/freeSeat.png",
         "imgAlt": "B5",
         "seatNo": "5" 
     },
     {
         "id": "B4",
-        "className": "rowB seat4 seatCont",
+        "className": "rowB seat4",
         "imgSrc": "./book/freeSeat.png",
         "imgAlt": "B4",
         "seatNo": "4" 
     },
     {
         "id": "B3",
-        "className": "rowB seat3 seatCont",
+        "className": "rowB seat3",
         "imgSrc": "./book/freeSeat.png",
         "imgAlt": "B3",
         "seatNo": "3" 
     },
     {
         "id": "B2",
-        "className": "rowB seat2 seatCont",
+        "className": "rowB seat2",
         "imgSrc": "./book/freeSeat.png",
         "imgAlt": "B2",
         "seatNo": "2" 
     },
     {
         "id": "B1",
-        "className": "rowB seat1 seatCont",
+        "className": "rowB seat1",
         "imgSrc": "./book/freeSeat.png",
         "imgAlt": "B1",
         "seatNo": "1" 
@@ -753,91 +753,91 @@
 
     {
         "id": "A13",
-        "className": "rowA seat13 seatCont",
+        "className": "rowA seat13",
         "imgSrc": "./book/freeSeat.png",
         "imgAlt": "A13",
         "seatNo": "13" 
     },
     {
         "id": "A12",
-        "className": "rowA seat12 seatCont",
+        "className": "rowA seat12",
         "imgSrc": "./book/freeSeat.png",
         "imgAlt": "A12",
         "seatNo": "12" 
     },
     {
         "id": "A11",
-        "className": "rowA seat11 seatCont",
+        "className": "rowA seat11",
         "imgSrc": "./book/freeSeat.png",
         "imgAlt": "A11",
         "seatNo": "11" 
     },
     {
         "id": "A10",
-        "className": "rowA seat10 seatCont",
+        "className": "rowA seat10",
         "imgSrc": "./book/freeSeat.png",
         "imgAlt": "A10",
         "seatNo": "10" 
     },
     {
         "id": "A9",
-        "className": "rowA seat9 seatCont",
+        "className": "rowA seat9",
         "imgSrc": "./book/freeSeat.png",
         "imgAlt": "A9",
         "seatNo": "9" 
     },
     {
         "id": "A8",
-        "className": "rowA seat8 seatCont",
+        "className": "rowA seat8",
         "imgSrc": "./book/freeSeat.png",
         "imgAlt": "A8",
         "seatNo": "8" 
     },
     {
         "id": "A7",
-        "className": "rowA seat7 seatCont",
+        "className": "rowA seat7",
         "imgSrc": "./book/freeSeat.png",
         "imgAlt": "A7",
         "seatNo": "7" 
     },
     {
         "id": "A6",
-        "className": "rowA seat6 seatCont",
+        "className": "rowA seat6",
         "imgSrc": "./book/freeSeat.png",
         "imgAlt": "A6",
         "seatNo": "6" 
     },
     {
         "id": "A5",
-        "className": "rowA seat5 seatCont",
+        "className": "rowA seat5",
         "imgSrc": "./book/freeSeat.png",
         "imgAlt": "A5",
         "seatNo": "5" 
     },
     {
         "id": "A4",
-        "className": "rowA seat4 seatCont",
+        "className": "rowA seat4",
         "imgSrc": "./book/freeSeat.png",
         "imgAlt": "A4",
         "seatNo": "4" 
     },
     {
         "id": "A3",
-        "className": "rowA seat3 seatCont",
+        "className": "rowA seat3",
         "imgSrc": "./book/freeSeat.png",
         "imgAlt": "A3",
         "seatNo": "3" 
     },
     {
         "id": "A2",
-        "className": "rowA seat2 seatCont",
+        "className": "rowA seat2",
         "imgSrc": "./book/freeSeat.png",
         "imgAlt": "A2",
         "seatNo": "2" 
     },
     {
         "id": "A1",
-        "className": "rowA seat1 seatCont",
+        "className": "rowA seat1",
         "imgSrc": "./book/freeSeat.png",
         "imgAlt": "A1",
         "seatNo": "1" 
