@@ -3,25 +3,12 @@ import { ListingsContext } from "./ListingsContext";
 import filmData from "./components/booking/filmTimesData.json";
 import Seat from "./components/booking/seat.js";
 import seatInfo from "./components/booking/seatInfo.json";
+import { Link } from "react-router-dom";
 
 class ChooseSeats extends React.Component {
-    constructor(props) {
-        super(props)
-        this.state = {
-            //seatTaken: false,
-        }
 
-        //this.handleClick = this.handleClick.bind(this)
-    }
-
-    /*handleClick = () => {
-        this.setState(state => ({
-            seatTaken: !state.seatTaken
-        }))
-    } */
 
     render(){
-        //const seatColor = this.state.seatTaken ? "taken" : "empty"
 
         return(
             <div>
@@ -54,6 +41,8 @@ class ChooseSeats extends React.Component {
                     const childTickets = context.state.childTickets;
 
                     const clickHandler = context.state.remainingSeats < 1 ?  context.changeSeats : context.chooseSeats
+
+                    const confirmBookingClick = context.state.remainingSeats > 0 ? "/chooseseats" : "/confirmation"
 
                     return (
                         <div>
@@ -96,6 +85,8 @@ class ChooseSeats extends React.Component {
                             </div>
                             <h1 id="selectTicketSubHeader">Choose your seats...</h1>
                             <h3>Remaining tickets: {context.state.remainingSeats}</h3>
+
+                            <h2 id="landscapeMode">Please turn your phone to landscape mode to choose your seats.</h2>
                             
                             <div id="screenLayout">
                                 {seatInfo.map(seat => <Seat id={seat.id} className={seat.className + " singleSeat"} onClick={clickHandler} seatNo={seat.seatNo} />)}
@@ -120,7 +111,9 @@ class ChooseSeats extends React.Component {
                                
                             </div>
                             
-                            
+                            <div id="goToSeatsCont">
+                                <Link to={confirmBookingClick}><button className="goToSeats">Confirm Booking ></button></Link>
+                            </div>
                             <hr />
                         </div>                 
                     
