@@ -3,6 +3,7 @@ import Home from "./home.js";
 import WhatsOn from "./whatsOn.js";
 import Book from "./book.js";
 import BookingDetails from "./bookingDetails.js";
+import ChooseSeats from "./chooseSeats.js";
 import ComingSoon from "./comingSoon.js";
 import Contact from "./contact.js";
 import {Route} from "react-router-dom";
@@ -22,6 +23,7 @@ function App(){
             <Route exact path="/whatson" component={WhatsOn} />
             <Route exact path="/book" component={Book} />
             <Route exact path="/bookingdetails" component={BookingDetails} />
+            <Route exact path="/chooseseats" component={ChooseSeats} />
             <Route exact path="/comingsoon" component={ComingSoon} />
             <Route exact path="/contact" component={Contact} />
             <Footer />

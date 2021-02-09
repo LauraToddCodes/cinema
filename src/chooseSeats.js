@@ -5,8 +5,24 @@ import Seat from "./components/booking/seat.js";
 import seatInfo from "./components/booking/seatInfo.json";
 
 class ChooseSeats extends React.Component {
+    constructor(props) {
+        super(props)
+        this.state = {
+            //seatTaken: false,
+        }
+
+        //this.handleClick = this.handleClick.bind(this)
+    }
+
+    /*handleClick = () => {
+        this.setState(state => ({
+            seatTaken: !state.seatTaken
+        }))
+    } */
 
     render(){
+        //const seatColor = this.state.seatTaken ? "taken" : "empty"
+
         return(
             <div>
             <ListingsContext.Consumer>
@@ -37,7 +53,7 @@ class ChooseSeats extends React.Component {
                     const concessionTickets = context.state.concessionTickets;
                     const childTickets = context.state.childTickets;
 
-                    const seatsChosen = context.state.chosenSeat;
+                    const clickHandler = context.state.remainingSeats < 1 ?  context.changeSeats : context.chooseSeats
 
                     return (
                         <div>
@@ -75,15 +91,14 @@ class ChooseSeats extends React.Component {
                                     </div>
                                 </div>
                                 <div id="bookingDetailsImg">
-                                    <img src={chosenFilmImg} alt={chosenFilmImgAlt} />
+                                    <img src={process.env.PUBLIC_URL + chosenFilmImg} alt={chosenFilmImgAlt} />
                                 </div>
                             </div>
                             <h1 id="selectTicketSubHeader">Choose your seats...</h1>
                             <h3>Remaining tickets: {context.state.remainingSeats}</h3>
-                            <h3>Chosen seats: {context.state.chosenSeat}</h3>
                             
                             <div id="screenLayout">
-                                {seatInfo.map(seat => <Seat id={seat.id} className={seat.className} onClick={context.chooseSeats} imgSrc={seat.imgSrc} imgAlt={seat.imgAlt} seatNo={seat.seatNo} />)}
+                                {seatInfo.map(seat => <Seat id={seat.id} className={seat.className + " singleSeat"} onClick={clickHandler} seatNo={seat.seatNo} />)}
                                 
                                 <div className="rowI aisle">row I</div>
                                   

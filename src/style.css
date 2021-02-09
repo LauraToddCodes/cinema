@@ -403,14 +403,6 @@ body {
     grid-template-rows: repeat(9, 1fr);
 }
 
-.seatCont {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    position: relative;
-    cursor: pointer;
-}
-
 .seatNumber {
     position: absolute;
 }
@@ -508,6 +500,23 @@ body {
 
 .seat1 {
     grid-column: 15 / 16;
+}
+
+.singleSeat {
+    width: 40px;
+    height: 40px;
+    border-radius: 10px;
+    display: flex;
+    place-items: center;
+    place-content: center;
+    cursor: pointer;
+    background-color: #695BB9;
+    color: white;
+}
+
+.taken {
+    background-color: white;
+    color: black;
 }
 
 @media screen and (max-width: 1050px) {
