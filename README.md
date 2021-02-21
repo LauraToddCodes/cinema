@@ -26,11 +26,11 @@ The 'Search' page displays the film listings and allows the user to filter the r
 
 Since the selected Date, Time and Film need to be stored and used on subsequent pages, the context API is used to store those details so that they can be used later.
 
-## Booking Details Page
+### Booking Details Page
 
 The 'Booking Details' is a Context Consumer and takes the selected film information and displays it for the user. The user is then able to choose the number and types of tickets they would like using 3 separate dropdown menus and the price is displayed for them. The price is altered onChange.
 
-## Choose Seats Page
+### Choose Seats Page
 
 The user can then move on to the 'Choose Seats' page where the total number of tickets they selected on the previous page is displayed using the Listings Context. They can then select their seats from a layout of the theatre. When a seat is selected, that seat turns white and the 'Remaining Seats' count is reduced by 1. If that same seat is selected, the opposite happens. This is done by changing the onClick method depending on the current state of context.state.remainingSeats.
 
@@ -38,6 +38,6 @@ When the 'Remaining Seats' count is 0, the user can no longer click on any of th
 
 Once the user is happy with their selection, they can then click the button to confirm their booking. The button will only move the user on to the next page if the 'Remaining Seats' count is down to 0.
 
-## Booking Confirmation Page
+### Booking Confirmation Page
 
 The 'Booking Confirmation' page simply displays a confirmation message with the details of the booking.
