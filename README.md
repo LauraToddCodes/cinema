@@ -14,7 +14,7 @@ The site was built using create-react-app and Browser Router is used to create p
 
 ### App Structure
 
-![https://github.com/LauraToddCode/cinema/tree/master/structure/AppStructure.jpeg]
+![./structure/AppStructure.jpeg](./structure/AppStructure.jpeg)
 
 ### What's On and Coming Soon Pages
 
