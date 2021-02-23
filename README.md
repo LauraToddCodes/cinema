@@ -12,6 +12,10 @@ A multi-page website for a Cinema built using React. This site includes pages  f
 
 The site was built using create-react-app and Browser Router is used to create paths to each page whilst keeping the same Title, Navbar and Footer.
 
+### App Structure
+
+![File Structure](https://github.com/LauraToddCode/cinema/structure/AppStructure.jpeg)
+
 ### What's On and Coming Soon Pages
 
 The 'What's On' and 'Coming Soon' pages make use of the react-player dependency. Both pages use a reusable component to create the blocks for each film. The data for each film is passed to the component on each of the pages.
