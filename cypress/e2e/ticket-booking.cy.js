@@ -53,6 +53,40 @@ describe('ticket booking', () => {
       cy.get('#ticketDropdowns>div').eq(0).children('select').select('1')
       cy.get('#ticketDropdowns>div').eq(1).children('select').select('1')
       cy.get('#ticketDropdowns>div').eq(2).children('select').select('2')
+
+      cy.get('#ticketCalcCont>.ticketCalc').eq(1).children('.totalCalc').contains('£14')
+      cy.get('#ticketCalcCont>.ticketCalc').eq(2).children('.totalCalc').contains('£11')
+      cy.get('#ticketCalcCont>.ticketCalc').eq(3).children('.totalCalc').contains('£16')
+      cy.get('#ticketCalcCont>.ticketCalc').last().children('.totalCalc').contains('£41')
+
+      cy.get('#goToSeatsCont').children('a').click()
+
+      cy.location('pathname').should('include', 'chooseseats')
+
+      cy.get('.bookingDetails').children('#bookingDetailsText').children('div').eq(3).children('.chosenDetail').contains('1')
+      cy.get('.bookingDetails').children('#bookingDetailsText').children('div').eq(4).children('.chosenDetail').contains('1')
+      cy.get('.bookingDetails').children('#bookingDetailsText').children('div').eq(5).children('.chosenDetail').contains('2')
+      cy.get('.bookingDetails').children('#bookingDetailsText').children('div').eq(6).children('.chosenDetail').contains('4')
+
+      cy.get('h3').contains('Remaining tickets: 4')      
+      cy.get('#screenLayout').children('#H11').click()
+      cy.get('h3').contains('Remaining tickets: 3')      
+      cy.get('#screenLayout').children('#H11').click()
+      cy.get('h3').contains('Remaining tickets: 4')   
+      cy.get('#screenLayout').children('#H11').click()
+      cy.get('h3').contains('Remaining tickets: 3')      
+      cy.get('#screenLayout').children('#H10').click()
+      cy.get('h3').contains('Remaining tickets: 2')      
+      cy.get('#screenLayout').children('#H9').click()
+      cy.get('h3').contains('Remaining tickets: 1')
+      cy.get('#screenLayout').children('#H8').click()
+      cy.get('h3').contains('Remaining tickets: 0')   
+      
+      cy.get('#goToSeatsCont').children('a').click()
+
+      cy.location('pathname').should('include', 'confirmation')
+
+      cy.get('h2').contains('We\'ll see you for the 12:30 showing of Harriet on Wednesday 4th December.')
     })
   })
   

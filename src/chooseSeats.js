@@ -51,7 +51,7 @@ class ChooseSeats extends React.Component {
                             <h1 id="pageTitle">Your Booking</h1>
                             <hr />
                             <div className="bookingDetails">
-                                <div>
+                                <div id="bookingDetailsText">
                                     <div className="bookingItems">
                                         <span className="bookingDetail">Film:</span>
                                         <span className="chosenDetail">{chosenFilm}</span>
