@@ -35,5 +35,24 @@ describe('ticket booking', () => {
 
       cy.get('div#searchContainer').children('form').children('div').last().children('div').should('have.length', 2)
     })
+
+    it('allows you to book for a screening', () => {
+      cy.get('div#searchContainer').children('form').children('div').last().children('div').children('div')
+      .last().children('div').children('a').first().click()
+
+      cy.location('pathname').should('include', 'bookingdetails')
+
+      cy.get('h1').contains('Your Booking')
+
+      cy.get('#bookingDetailsBlock>.bookingItems').eq(0).children('.chosenDetail').contains('Harriet')
+
+      cy.get('#bookingDetailsBlock>.bookingItems').eq(1).children('.chosenDetail').contains('Wednesday 4th December')
+
+      cy.get('#bookingDetailsBlock>.bookingItems').eq(2).children('.chosenDetail').contains('12:30')
+
+      cy.get('#ticketDropdowns>div').eq(0).children('select').select('1')
+      cy.get('#ticketDropdowns>div').eq(1).children('select').select('1')
+      cy.get('#ticketDropdowns>div').eq(2).children('select').select('2')
+    })
   })
   
