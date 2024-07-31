@@ -4,6 +4,7 @@ import InstaIcon from "./images/footer/instagramIcon.png";
 import TwitterIcon from "./images/footer/twitterIcon.png";
 
 function Footer(){
+    const currentYear = new Date().getFullYear()
     return(
         <footer>
             <div id="footerSocials">
@@ -16,7 +17,7 @@ function Footer(){
                 21 St Marks Road, Bristol, BS5 0LN<br />
                 hello@talkingpictures.com<br />
                 0457 123 45 67<br />
-                © Copyright 2020 Talking Pictures</p>
+                © Copyright {currentYear} Talking Pictures</p>
             </div>
         </footer>
     )

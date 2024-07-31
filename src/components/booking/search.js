@@ -72,7 +72,7 @@ class Search extends React.Component {
 
                         <div>
                         {filmListings.map(film => validFilm(film.id, film.showings) && (
-                            <div key={film.id}>
+                            <div key={film.id} className="filmBlock">
                             <FilmInfo imgSrc={process.env.PUBLIC_URL + film.imgSrc} imgAlt={film.imgAlt} filmTitle={film.filmTitle} paragraphText={film.paragraphText}/>
                             {film.showings.map(showing => validDate(showing.date) && (
                                 <ListingsContext.Consumer>
