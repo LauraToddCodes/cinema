@@ -244,14 +244,14 @@ body {
     color:white;
 }
 
-#whatsOnFilms {
+.whatsOnFilms {
     display: grid;
     grid-template-columns: 49% 49%;
     grid-gap: 2%;
     margin: 10px 0 40px 0;
 }
 
-#whatsOnFilms img {
+.whatsOnFilms img {
     width: 100%;
 }
 
@@ -551,7 +551,7 @@ body {
         align-items: center;
     }
 
-    #whatsOnFilms {
+    .whatsOnFilms {
         display: flex;
         flex-direction: column;
     }
