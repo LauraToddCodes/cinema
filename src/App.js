@@ -4,7 +4,6 @@ import Title from "./components/title.js";
 import Footer from "./components/footer.js";
 import { Outlet } from "react-router-dom";
 import "./style.css";
-import "./javascript.js";
 
 
 function App(){
