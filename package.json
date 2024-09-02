@@ -42,6 +42,6 @@
     ]
   },
   "devDependencies": {
-    "cypress": "^13.13.3"
+    "cypress": "^13.14.1"
   }
 }
